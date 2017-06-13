@@ -19,6 +19,6 @@ Handlebars
 Mongoose
 Cheerio
 
-Reference(s)
+Acknowledgements
 
 mattbajorek/Week-18-Homework-Assignment
