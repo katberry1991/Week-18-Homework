@@ -15,5 +15,6 @@ Technologies Used
 
 Javascript
 CSS/HTML
+Handlebars
 Mongoose
 Cheerio
